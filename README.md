@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aamir185
-- 👀 I’m interested in Data Analytics and visualizations as well as machine learning.
+- 👀 I’m interested in data analytics, visualizations and machine learning.
 - 🌱 I’m currently learning PowerBI and it's applications in creating interactive dashboards.
 - 💞️ I’m looking to collaborate on Machine Learning projects.
 - 📫 How to reach me mapkaraamir@gmail.com
